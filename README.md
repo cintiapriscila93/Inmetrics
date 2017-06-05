@@ -1,7 +1,8 @@
 # Inmetrics Teste Automatizado
 Teste automatizado com Selenium para abrir a página da Inemtrics.
 
-Utilizando Jar executável
+Utilizando Jar executável:
+
 Para executar o teste diretamente faça o download do arquivo TesteInmetrics.jar em:
 https://github.com/cintiapriscila93/Inmetrics/releases/download/1.0.0/TesteInmetrics.jar
 
