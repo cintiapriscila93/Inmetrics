@@ -1,5 +1,5 @@
 # Inmetrics Teste Automatizado
-Teste automatizado com Selenium para abrir a página da Inemtrics.
+Teste automatizado com Selenium para abrir a página da Inmetrics.
 
 Utilizando Jar executável:
 
@@ -12,7 +12,7 @@ https://github.com/mozilla/geckodriver/releases
 O geckodriver.exe deverá ser salvo na pasta:
 C:\app\selenium
 
-Com essa configraçâo o programa poderá ser excutado com um duplo clique no Jar TesteInmetrics.
+Com essa configuraçâo o programa poderá ser excutado com um duplo clique no Jar TesteInmetrics.
 
 
 
