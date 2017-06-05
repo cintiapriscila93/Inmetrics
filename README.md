@@ -1,6 +1,9 @@
 # Inmetrics Teste Automatizado
 Teste automatizado com Selenium para abrir a página da Inmetrics.
 
+Código fonte se encontra na classe:
+https://github.com/cintiapriscila93/Inmetrics/blob/master/src/main/java/br/com/inmetrics/TesteAbrirPaginaInmetrics.java
+
 Utilizando Jar executável:
 
 Para executar o teste diretamente faça o download do arquivo TesteInmetrics.jar em:
